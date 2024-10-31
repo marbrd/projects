@@ -1,4 +1,4 @@
 # projects
 hello
 I am Marouane 
-A conputer science engineering student 
+A computer science engineering student 
